@@ -65,11 +65,8 @@ const resolver = {
  * Source: http://theportalwiki.com/wiki/GLaDOS_voice_lines#Chapter_9:_The_Part_Where_He_Kills_You
  */
 const strings = [
-  'WebLeb',
-  'Order A Website Now',
-  'Download Free Code',
-  'Read Articles',
-  'And Many More...'
+  'I love eliza so much',
+  'Shes my valentines'
 ];
 
 let counter = 0;
